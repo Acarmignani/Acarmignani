@@ -1,4 +1,4 @@
-<h1>Hello, I'm Anthony Carmignani! <br/>Tech enthusiast with a passion for Cybersecurity.</h1>
+<h1>Hello, I'm Anthony! <br/>Tech enthusiast with a passion for Cybersecurity.</h1>
 
 <h2>👨‍💻 My Projects:</h2></br>
 
